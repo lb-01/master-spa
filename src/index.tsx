@@ -1,4 +1,6 @@
-import { lazy, Router } from 'preact-iso';
+import { render } from 'preact';
+
+import './style.css';
 
 export function App() {
 	const name = "[name]"; // Replace [name] with the actual name if needed
@@ -37,3 +39,5 @@ export function App() {
 		</div>
 	);
 }
+
+

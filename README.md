@@ -1,12 +1,15 @@
-# Preact Vite Template
+# `create-preact`
 
-This template will have you up-and-running with [Preact] and [Vite] in no time.
+<h2 align="center">
+  <img height="256" width="256" src="./src/assets/preact.svg">
+</h2>
 
-### Commands
+<h3 align="center">Get started using Preact and Vite!</h3>
 
-- `npm start`: start the development server
-- `npm run build`: build for production
-- `npm run preview`: serve a production build locally for testing
+## Getting Started
 
-[preact]: https://preactjs.com
-[vite]: https://vite.dev
+-   `npm run dev` - Starts a dev server at http://localhost:5173/
+
+-   `npm run build` - Builds for production, emitting to `dist/`
+
+-   `npm run preview` - Starts a server at http://localhost:4173/ to test production build locally
